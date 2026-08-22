@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarkeramit2006-netizen.github.io/apilo-juice-website/sitemap.xml
